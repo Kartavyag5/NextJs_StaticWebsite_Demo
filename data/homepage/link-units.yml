@@ -1,0 +1,52 @@
+title: "SEE OUR PICKS FOR THE BEST OF OUR CONTENT IN EACH CATAGORY"
+link_units:
+  - title: "Best Smart Health Devices"
+    image: "https://innerbody.imgix.net/homepage-devices.png?w=450&auto=format"
+    watermark_position: left
+    links:
+      - link: "Home Health test kits"
+        url: "https://www.test.com"
+      - link: "ADT Home Security Review"
+        url: "https://www.test.com"
+      - link: "SimpliSafe Home Security Review"
+        url: "https://www.test.com"
+      - link: "Vivint Home Security Review"
+        url: "https://www.test.com"
+  - title: "Best Smart Health Devices"
+    image: "https://innerbody.imgix.net/homepage-telehealth.png?w=450&auto=format"
+    watermark_position: right
+    links:
+      - link: "Home Health test kits"
+        url: "https://www.test.com"
+      - link: "ADT Home Security Review"
+        url: "https://www.test.com"
+      - link: "SimpliSafe Home Security Review"
+        url: "https://www.test.com"
+      - link: "Vivint Home Security Review"
+        url: "https://www.test.com"
+  - title: "Best Smart Health Devices"
+    image: "https://innerbody.imgix.net/homepage-therapy.png?w=450&auto=format"
+    watermark_position: right
+    links:
+      - link: "Home Health test kits"
+        url: "https://www.test.com"
+      - link: "ADT Home Security Review"
+        url: "https://www.test.com"
+      - link: "SimpliSafe Home Security Review"
+        url: "https://www.test.com"
+      - link: "Vivint Home Security Review"
+        url: "https://www.test.com"
+      - link: "SimpliSafe Home Security Review"
+        url: "https://www.test.com"
+  - title: "Best Health Home testing kits"
+    image: "https://innerbody.imgix.net/homepage-testing.png?w=450&auto=format"
+    watermark_position: right
+    links:
+      - link: "Home Health test kits"
+        url: "https://www.test.com"
+      - link: "ADT Home Security Review"
+        url: "https://www.test.com"
+      - link: "SimpliSafe Home Security Review"
+        url: "https://www.test.com"
+      - link: "Vivint Home Security Review"
+        url: "https://www.test.com"

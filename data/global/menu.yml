@@ -1,0 +1,177 @@
+menus:
+  - menu_name: "Telehealth"
+    menu_title: "All Telehealth Products"
+    view_all_link: /telehealth
+    menu_columns:
+      - name: "Popular Reviews"
+        links: 
+          - name: Best Online Doctor
+            link: /best-online-doctor
+          - name: Best Online Therapy
+            link: /best-online-therapy
+          - name: Best Online Psychiatrist
+            link: /best-online-psychiatrist
+          - name: Online Therapy FAQ
+            link: /online-therapy-most-frequently-asked-questions
+          - name: Getting the Most out of Online Therapy
+            link: /getting-most-out-of-online-therapy
+      - name: false
+        links: 
+          - name: BetterHelp vs Talkspace
+            link: /betterhelp-vs-talkspace
+          - name: BetterHelp Reviews
+            link: /betterhelp-review
+          - name: Roman Reviews
+            link: /roman-review
+      - name: "Popular Guides"
+        links: 
+          - name: Wisp Reviews
+            link: /wisp-review
+          - name: Hims Reviews
+            link: /hims-review
+          - name: Hers Reviews
+            link: /hers-review
+          - name: Cerebral Reviews
+            link: /cerebral-reviews
+      - name: "Research"
+        links: 
+          - name: Guide to Emergency Preparedness and Disaster Recovery
+            link: /guide-to-emergency-preparedness-and-disaster-recovery
+          - name: Top 5 Benefits of Building Healthy Habits
+            link: /top-benefits-of-building-healthy-habits
+          - name: 13 Benefits Kids Get From Gaming
+            link: /cognitive-benefits-kids-get-from-playing-video-games
+          - name: 10 Easy Ways to Boost Your Metabolism
+            link: /easy-ways-to-boost-your-metabolism
+  - menu_name: "Therapy"
+    menu_link: "/htm/aboutsite.html"
+  - menu_name: "Testing"
+    menu_title: "All Testing Products"
+    view_all_link: /telehealth
+    menu_columns:
+      - name: "Popular Tests"
+        links: 
+          - name: Best At Home STD Test
+            link: /home-health-tests/std-home-test
+          - name: Best Food Sensitivity Test
+            link: /home-health-tests/food-sensitivity-tests
+          - name: Best DNA Health Test
+            link: /dna-testing/dna-health-testing
+          - name: Best Microbiome Testing
+            link: /home-health-tests/microbiome-testing
+      - name: "Popular Home Tests"
+        links: 
+          - name: Best Heavy Metal Testing
+            link: /home-health-tests/heavy-metal-testing
+          - name: Best At Home Thyroid Test
+            link: /home-health-tests/home-thyroid-test
+          - name: Everlywell Reviews
+            link: /home-health-tests/everlywell-review
+          - name: myLAB Box Reviews
+            link: /home-health-tests/mylab-box-reviews
+          - name: Lets Get Checked Reviews
+            link: /home-health-tests/letsgetchecked-review
+          - name: STDcheck Reviews
+            link: /home-health-tests/stdcheck-review
+      - name: false
+        links: 
+          - name: Viome Reviews
+            link: /viome-review
+          - name: Thryve Reviews
+            link: /thryve-review
+          - name: SelfDecode Reviews
+            link: /selfdecode-reviews
+          - name: Mira Reviews
+            link: /mira-review
+          - name: InsideTracker Reviews
+            link: /insidetracker-review
+          - name: Toolbox Genomics Review
+            link: /toolbox-genomics-review
+  - menu_name: "Products"
+    menu_title: "All Products Products"
+    view_all_link: /telehealth
+    menu_columns:
+      - name: "Popular Products"
+        links: 
+          - name: Keeps vs Hims
+            link: /keeps-vs-hims
+          - name: Keeps Reviews
+            link: /keeps-review
+          - name: MDHearingAid Reviews
+            link: /mdhearingaid-review
+          - name: Hims ED Review
+            link: /hims-ed-review
+          - name: Ritual Vitamins Reviews
+            link: /ritual-vitamins-review
+          - name: Candid Reviews
+            link: /candid-review
+      - name: false
+        links: 
+          - name: Testogen Reviews
+            link: /testogen-reviews
+          - name: BistroMD Reviews
+            link: /bistromd-review
+          - name: BlueChew Reviews
+            link: /bluechew-review
+          - name: Tru Niagen Reviews
+            link: /tru-niagen-review
+          - name: ScalpMED Reviews
+            link: /scalpmed-reviews
+      - name: "Best Products"
+        links: 
+          - name: Hair Club Reviews
+            link: /hairclub-reviews
+          - name: Best Invisible Braces
+            link: /best-invisible-braces
+          - name: Best Hair Loss Treatments for Men
+            link: /best-hair-loss-treatment-for-men
+          - name: Best Delay Spray
+            link: /best-delay-spray
+          - name: BlueChew Free Trial
+            link: /bluechew-free-trial
+          - name: Best ED Treatment
+            link: /best-erectile-dysfunction-treatment
+  - menu_name: "Nutrition"
+    menu_title: "All Research Products"
+    view_all_link: false
+    menu_columns:
+      - name: false
+        links: 
+          - name: The 10 Best and Worst States for Telehealth
+            link: /best-worst-states-telehealth
+          - name: Cities With Highest STD Rates
+            link: /std-testing/std-statistics
+          - name: Most Vulnerable States in a COVID-19 Pandemic
+            link: /coronavirus-covid-19-most-vulnerable-states
+          - name: Coronavirus Stimulus Package Analysis by State
+            link: /coronavirus-stimulus-bill-funds-allocation-by-state
+          - name: STD Statistics By State
+            link: /std-testing/std-statistics-by-state
+          - name: Healthiest Cities in Texas
+            link: /texas-healthiest-least-healthy-cities
+  - menu_name: "Anatomy"
+    menu_title: "All Anatomy Products"
+    view_all_link: /anatomy
+    menu_columns:
+      - name: false
+        links: 
+          - name: Skeletal
+            link: /image/skelfov.html
+          - name: Muscular
+            link: /image/musfov.html
+          - name: Cardiovascular
+            link: /image/cardov.html
+          - name: Digestive
+            link: /image/digeov.html
+          - name: Nervous
+            link: /image/nervov.html
+          - name: Respiratory
+            link: /anatomy/respiratory
+          - name: Urinary
+            link: /image/urinov.html
+          - name: Integumentary
+            link: /anatomy/integumentary
+          - name: Nutrition Guide
+            link: /nutrition
+          - name: Health Careers
+            link: /careers-in-health.html

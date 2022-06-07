@@ -1,0 +1,22 @@
+line1: Research & reviews for your most important home health purchases.
+line2: Turn to our experts for everything you need to know about at-home testing and telemedicine.  We do the research so you don't have to.
+links:
+  - link: "Telehealth"
+    image: "HomepageMainnavFoodNutrition"
+    url: "https://www.google.com"
+  - link: "Online Therapy"
+    image: "HomepageMainnavHealthProducts"
+    url: "https://www.google.com"
+  - link: "Home Testing"
+    image: "HomepageMainnavHomeTesting"
+    url: "https://www.google.com"
+  - link: "Health Products"
+    image: "HomepageMainnavOnlineTherapy"
+    url: "https://www.google.com"
+  - link: "Food & Nutrition"
+    image: "HomepageMainnavTelehealth"
+    url: "https://www.google.com"
+  - link: "Human Anatomy"
+    subtag: "EDU"
+    image: "HomepageMainnavAnatomyIll"
+    url: "https://www.google.com"

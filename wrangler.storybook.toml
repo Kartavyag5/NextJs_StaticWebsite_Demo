@@ -1,0 +1,16 @@
+type = "webpack"
+account_id = "7a630b6fe01a0607433b62d395e16af1"
+name = "ib"
+compatibility_date = "2021-10-01"
+
+[site]
+bucket = "./storybook-static"
+entry-point = "workers-site"
+
+[env.storybook]
+name = "ib-stage-storybook"
+zone_id = "4ea737e6c84383a772f8d5ffa4fc14ac"
+account_id = "7a630b6fe01a0607433b62d395e16af1"
+routes = [
+  "stagenextstorybook.htdt.net/*"
+]

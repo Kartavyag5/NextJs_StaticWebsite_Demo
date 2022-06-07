@@ -1,0 +1,43 @@
+copyright: "Copyright © Innerbody Research 1999 - 2022. All Rights Reserved."
+byline: "Innerbody Research does not provide medical advice, diagnosis, or treatment. You must consult your own medical professional."
+link_lists:
+  - title: Guides
+    links:
+      - link: "Top 10 Healt Deals"
+        url: "http://google.com"
+      - link: "STD Testing"
+        url: "http://google.com"
+      - link: "DNA Health Testing"
+        url: "http://google.com"
+      - link: "Food Sensitivity"
+        url: "http://google.com"
+  - title: Reviews
+    links:
+      - link: "Better Help Review"
+        url: "http://google.com"
+      - link: "Everlywell Review"
+        url: "http://google.com"
+      - link: "myLAB Box Review"
+        url: "http://google.com"
+      - link: "LetsGetChecke"
+        url: "http://google.com"
+  - title: About
+    links:
+      - link: "About Us"
+        url: "http://google.com"
+      - link: "Contact Us"
+        url: "http://google.com"
+      - link: "Carreers"
+        url: "http://google.com"
+      - link: "Missions"
+        url: "http://google.com"
+  - title: Other
+    links:
+      - link: "Privacy Policy "
+        url: "http://google.com"
+      - link: "Do Not Sell My Info"
+        url: "http://google.com"
+      - link: "Ad Policy"
+        url: "http://google.com"
+      - link: "Terms of Use"
+        url: "http://google.com"
